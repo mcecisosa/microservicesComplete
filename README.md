@@ -12,9 +12,9 @@ Integración de los datos utilizando MongoDB, como base de datos NoSQL y MongoDB
 Despliegue de los microservicios en diferentes contenedores utilizando Docker y Docker Compose para asegurar un funcionamiento unificado en una Máquina Virtual desplegada en Google Cloud.
 
 Endpoints:
-http://34.27.208.115:8000/characters
-http://34.27.208.115:8000/characters/:id
-http://34.27.208.115:8000/planets
-http://34.27.208.115:8000/planets/:id
-http://34.27.208.115:8000/films
-http://34.27.208.115:8000/films/:id
+- http://34.27.208.115:8000/characters
+- http://34.27.208.115:8000/characters/:id
+- http://34.27.208.115:8000/planets
+- http://34.27.208.115:8000/planets/:id
+- http://34.27.208.115:8000/films
+- http://34.27.208.115:8000/films/:id
